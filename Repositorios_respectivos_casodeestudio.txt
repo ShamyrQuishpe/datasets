@@ -1,0 +1,11 @@
+Repositorios respectivos a cada tema de estudio:
+
+Musica: https://github.com/ShamyrQuishpe/scriptFreddy
+
+Deportes: https://github.com/AlejoQuiroz08/Analisis-FutbolData
+
+Videojuegos: https://github.com/ShamyrQuishpe/protecto_analisis
+
+Noticias: https://github.com/franciscocaero/Proyecto_Noticias_Poblacion
+
+Peliculas: https://github.com/VnCriis/proyectoAnalisisPeliculas.git
